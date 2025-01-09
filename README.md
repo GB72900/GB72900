@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice in C# (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in C#](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> C Projects
   - [Tiny Virtual Machine](https://github.com/GB72900/Tiny_Virtual_Machine)
 - <b>Java Projects</b>
