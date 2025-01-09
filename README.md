@@ -9,6 +9,7 @@
 - <b>Java Projects</b>
 
 - <b> Certifications </b>
+  - [C# Certification](https://github.com/GB72900/C-Certification)
 
 
 <h2> 🤳 Connect with me:</h2>
