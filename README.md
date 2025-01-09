@@ -10,6 +10,7 @@
 
 - <b> Certifications </b>
   - [C# Certification](https://github.com/GB72900/C-Certification)
+  - [TestOut IT Fundementals pro ](https://github.com/GB72900/TestOut-It-Fundementals-pro)
 
 
 <h2> 🤳 Connect with me:</h2>
