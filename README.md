@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Az 104 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice in C# (AlgoExpert)</b>
+- <b>Onboard Automator (Manage Azure identities and governance)</b>
   - [Praciting DS & Algos in C#](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> C Projects
   - [Tiny Virtual Machine](https://github.com/GB72900/Tiny_Virtual_Machine)
