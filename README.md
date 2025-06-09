@@ -1,6 +1,6 @@
 <h1>Hi, I'm Garett! <br/><a href="https://github.com/GB72900">Programmer</a>, <a href="www.linkedin.com/in/garett-blake-756183306">IT Support Specialist</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Az 104 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice in C# (AlgoExpert)</b>
   - [Praciting DS & Algos in C#](https://github.com/joshmadakor1/Algorithms-Practice)
