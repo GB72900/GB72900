@@ -3,15 +3,8 @@
 <h2>👨‍💻 Az 104 Projects:</h2>
 
 - <b>Onboard Automator (Manage Azure identities and governance)</b>
-  - [Praciting DS & Algos in C#](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> C Projects
-  - [Tiny Virtual Machine](https://github.com/GB72900/Tiny_Virtual_Machine)
-- <b>Java Projects</b>
 
-- <b> Certifications </b>
-  - [C# Certification](https://github.com/GB72900/C-Certification)
-  - [TestOut IT Fundementals pro ](https://github.com/GB72900/TestOut-It-Fundementals-pro)
-  - [Microsoft Azure Fundamentals](https://github.com/GB72900/Micrsoft_Azure_Fundementals)
+
 
 
 <h2> 🤳 Connect with me:</h2>
