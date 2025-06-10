@@ -3,6 +3,7 @@
 <h2>👨‍💻 Az 104 Projects:</h2>
 
 - <b>Onboard Automator (Manage Azure identities and governance)</b>
+- https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance/blob/main/README.md
 
 
 
@@ -11,11 +12,9 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
-[instagram]: https://www.instagram.com/blakeballer_29/
 [linkedin]: www.linkedin.com/in/garett-blake-756183306
 
 <!--
