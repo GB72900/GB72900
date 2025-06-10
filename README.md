@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Az 104 Projects:</h2>
 
-- <b>Onboard Automator (Manage Azure identities and governance)</b>
-- https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance/blob/main/README.md
+[Onboard Automator (Manage Azure identities and governance)](https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance)
+
 
 
 
