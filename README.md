@@ -6,6 +6,9 @@
 
 [Share Safely - File Share Web App (Implement and manage storage)](https://github.com/GB72900/Share-Safely)
 
+[NetMaze Explorer (Hybrid Network Simulation in Azure)](https://github.com/GB72900/NetMaze-Explorer/tree/main)
+
+
 
 
 
