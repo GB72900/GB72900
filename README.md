@@ -5,8 +5,8 @@
 - <b>Full Stack Web App (React, NodeJS, Azure)</b>
   - [Onboarding And Secrets Portal](https://github.com/GB72900/Onboarding-Portal/tree/master)
 
-
-[Onboard Automator (Manage Azure identities and governance)](https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance)
+- <b>Automated Onboarding Azure Identities and Governance</b>
+  - [Onboard Automator (Manage Azure identities and governance)](https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance)
 
 [Share Safely - File Share Web App (Implement and manage storage)](https://github.com/GB72900/Share-Safely)
 
