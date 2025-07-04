@@ -7,8 +7,9 @@
 
 - <b>Automated Onboarding Azure Identities and Governance</b>
   - [Onboard Automator (Manage Azure identities and governance)](https://github.com/GB72900/Automated-Onboarding-Azure-Identities-and-Governance)
-
-[Share Safely - File Share Web App (Implement and manage storage)](https://github.com/GB72900/Share-Safely)
+ 
+- <b>File Share Web App </b>
+  - [Share Safely (Implement and manage storage)](https://github.com/GB72900/Share-Safely)
 
 [NetMaze Explorer (Hybrid Network Simulation in Azure)](https://github.com/GB72900/NetMaze-Explorer/tree/main)
 
